@@ -2,7 +2,7 @@
 
 <h3 align="center"> Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Sou  Jonas Martins' 👨‍💻 </h3>
 <p align="center"> 
-  <p align="center">Sou desenvolvedor Front-end, apaixonado pelas melhores tecnologias de desenvolvimento web, sou aluno do Curso programadorbr, onde aprendi na prática as melhores tecnologias de desenvolvimento.</p>
+  <p align="center">Sou desenvolvedor Front-end, apaixonado pelas melhores tecnologias de desenvolvimento web, sou aluno do DevPleno, onde aprendi na prática as melhores tecnologias de desenvolvimento.</p>
 </p>
 <h3 align="center"> How to reach me? </h3>
 <p align="center">
