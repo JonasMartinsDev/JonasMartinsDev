@@ -4,7 +4,7 @@
 <p align="center"> 
   <p align="center">Sou desenvolvedor Front-end, apaixonado pelas melhores tecnologias de desenvolvimento web, sou aluno do JStack, onde aprendi na prática as melhores tecnologias de desenvolvimento.</p>
 </p>
-<h3 align="center"> How to reach me? </h3>
+<h3 align="center">Como chegar até mim? </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jonas-martins-950a30184/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,7 +14,7 @@
   </a>  
 </p>
 
-<h3 align="center">My Skills 🚀</h3>
+<h3 align="center">Habilidades 🚀</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
