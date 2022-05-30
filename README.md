@@ -2,7 +2,7 @@
 
 <h3 align="center"> Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Sou  Jonas Martins' 👨‍💻 </h3>
 <p align="center"> 
-<p align="center"> I,m developer Full Stack, And, I'm studying web development at <a href='https://www.rocketseat.com.br/'>Rocketseat</a>, where I learned in practice the best development technologies.</p>
+<p align="center"> I,m developer Full Stack, And, I'm studying web development at <a href='https://www.rocketseat.com.br/' target='_blank'>Rocketseat</a>, where I learned in practice the best development technologies.</p>
 </p>
 <h3 align="center">How to reach me? </h3>
 <p align="center">
