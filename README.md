@@ -1,6 +1,6 @@
 <h1 align="center" style="color: blue" > { DEVJonas }  </h1>
 
-<h3 align="center"> Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Sou  Jonas Martins' 👨‍💻 </h3>
+<h3 align="center"> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> am  Jonas Martins' 👨‍💻 </h3>
 <p align="center"> 
 <p align="center"> I,m developer Full Stack, And, I'm studying web development at <a href='https://www.rocketseat.com.br/' target="_blank">Rocketseat</a>, where I learned in practice the best development technologies.</p>
 </p>
